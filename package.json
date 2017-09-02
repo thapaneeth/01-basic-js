@@ -1,0 +1,15 @@
+{
+  "name": "58160167",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tennis.spec.js",
+  "dependencies": {
+    "jest": "^20.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
